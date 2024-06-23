@@ -62,13 +62,13 @@ class HomeComponent extends React.Component<WithTranslation> {
                 </div>
             </div>
             <footer className=' text-white gap-2 fixed bottom-0 text-xs sm:text-xl h-12 w-full py-1 px-2 flex items-center justify-center text-center bg-primary'>
-                Hosted on 
-                <a className=' text-accent-focus ' href="https://livekit.io/cloud?ref=meet" rel="noopener">
-                LiveKit Cloud
+                My Team 
+                <a className=' text-accent-focus ' href="https://team.alone-hk.cn" rel="noopener">
+                Light clouds
                 </a>
-                . Source code on 
-                <a className=' text-accent-focus ' href="https://github.com/velor2012/anonymous-chat-room" rel="noopener">
-                GitHub
+                . Creator 
+                <a className=' text-accent-focus ' href="https://www.alone-hk.cn" rel="noopener">
+                Lonely Sit
                 </a>
                 .
             </footer>
